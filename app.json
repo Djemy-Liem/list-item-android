@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "food-app",
-    "slug": "food-app",
+    "name": "food-central-app",
+    "slug": "food-central-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "description": ""
   }
 }
